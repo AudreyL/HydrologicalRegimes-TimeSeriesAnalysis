@@ -12,4 +12,4 @@ The data/code presented here include:
 - ezfft.m : Calculate the Fourier Transform
 - ACF_Fourier_and_indexes : The matlab code used in the article to generate the Hydrological Profile (ACF, FOurier analysis and quantitative measures) of 24 streams in Haiti
 - SSA.m : The Matlab code used to calculate the Singular Spectrum Analysis (SSA)
-- Data : The flow rate statistics used in this study were provided by LGL (Lalonde, Girouard & Letendre Canadian consultants) S.A. freelance experts and the Haitian public services. The selected data set contained 26 daily time series pertaining to 17 watersheds for the 1919-1943 time period.
+- Data : The flow rate statistics used in this study were provided by LGL (Lalonde, Girouard & Letendre Canadian consultants) S.A. freelance experts and the Haitian public services. The selected data set contained 26 daily time series pertaining to 17 watersheds for the 1919-1943 time period. We present the raw data (Raw_data) and standardized data (anomalies).
